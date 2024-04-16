@@ -36,6 +36,8 @@ conda install matplotlib
 conda install scikit-image
 conda install pandas
 conda install seaborn
+sudo pip uninstall h5py
+sudo pip install h5py==2.10.0
 </pre>
 
 **4.** Test your own data. Open terminal, move to a directory, which you save the code (2.Install all of codes available on this GitHub site), and run the under code!<br>
